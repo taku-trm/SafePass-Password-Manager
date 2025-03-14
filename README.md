@@ -26,7 +26,7 @@ Ensure you have the following installed:
 1. **Clone the Repository**
 
 ```bash
-   git clone https://github.com/LeeTadiwarr/password-manager.git
+   git clone https://github.com/taku-trm/SafePass-Password-Manager.git
    cd password-manager
 ```
 
